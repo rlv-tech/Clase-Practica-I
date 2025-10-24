@@ -10,7 +10,7 @@ while True:
     intentos = 0
     max_intentos = 5
 
-    # Cominezo
+    # Comienzo
     print(f"\nBienvenido al juego: Adiviná el número entre {minimo} y {maximo}.\n")
     print(f"Tenés hasta {max_intentos} intentos para lograrlo\n")
 
